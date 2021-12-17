@@ -8,7 +8,6 @@ export default function Info({data}) {
         <Card className={style.Card}>
             <Card.Body>
                 <Card.Title>
-                    <p>test</p>
                     {data.title}
                 </Card.Title>
                 <Card.Text>
